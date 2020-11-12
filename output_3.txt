@@ -1,0 +1,9 @@
+Drum de cost minim: 
+1)Broscuta se afla pe frunza initiala id1(0, 0).Broscuta a mancat 0 insecte.Greutate broscuta: 5
+2)Broscuta a sarit de la id1(0, 0) la id2(-1, 1). Broscuta a mancat 2 insecte. Greutate broscuta: 6
+3)Broscuta a sarit de la id2(-1, 1) la id6(-3, 1). Broscuta a mancat 1 insecte. Greutate broscuta: 6
+4)Broscuta a sarit de la id6(-3, 1) la id7(-4, 1). Broscuta a mancat 3 insecte. Greutate broscuta: 8
+5)Broscuta a sarit de la id7(-4, 1) la id9(-5, 0). Broscuta a mancat 0 insecte. Greutate broscuta: 7
+6)Broscuta a sarit de la id9(-5, 0) la id10(-7, 0). Broscuta a mancat 4 insecte. Greutate broscuta: 10
+7)Broscuta ajuns la mal in 6 sarituri.
+Programul a rulat : 0.007034200000000004 milisecunde.

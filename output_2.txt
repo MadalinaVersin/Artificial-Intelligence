@@ -1,0 +1,2 @@
+Lista open e vida, nu avem drum de la nodul start la mal.
+Programul a rulat : 0.0008022999999999988 milisecunde.
