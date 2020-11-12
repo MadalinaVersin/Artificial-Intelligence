@@ -12,7 +12,7 @@ Se da o configuratie initiala a cuburilor asezate in stive si de asemenea o conf
 Se cere secventa de mutari necesara (configuratiile intermediare) pentru a ajunge de la starea initiala la starea finala. In cadrul unei mutari, nu putem lua decat un cub aflat in varful unei stive si il putem pune doar in varful unei alte stive.</p>
 
 
-<h3> Min-max algorithm and alpha-beta algorithm.<h3>
+<h3> Min-max algorithm and alpha-beta algorithm.</h3>
 <p>Tabla de joc are 6 linii si 7 coloane si este pozitionata vertical (perpendicular pe masa).
 Se stabilesc simbolurile care vor fi folosite de fiecare dintre cei 2 jucatori (puteti folosi tot “X”
 si “0”; sau “G” si “R” de la galben si rosu). Mereu muta primul jucatorul cu “X” (sau cu “G”),
