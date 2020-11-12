@@ -52,5 +52,11 @@ goala.
 Castiga jucatorul care are 3 simboluri adiacente pe o linie, coloana sau diagonala. Daca toate
 9 casutele sunt completate, dar nu a castigat niciun jucator, atunci jocul se termina cu remiza.</p>
 
+<p><b>HareAndHoundsGame</b></p>
+<p>In acest joc sunt 3 catei si un iepure pe o tabla, pe care se deplaseaza.
+ Cateii au voie sa mearga doar inainte sau pe diagonala, iar iepurele se poate deplasa si in spate.
+ Iepurele va castiga daca va reusii sa se deplaseze in stanga tuturor cateilor.
+ Cateii castiga daca il inconjoara pe iepure, acesta nemaiputand sa se deplaseze in nici o directie.</p>
+
 
 
